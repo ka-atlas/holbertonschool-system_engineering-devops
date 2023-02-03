@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# printing 'Best School' ten times using while loop
+# printing 'Best School' ten times using while loop but printing 'Hi' on the 9th one
 
 count=0
 
